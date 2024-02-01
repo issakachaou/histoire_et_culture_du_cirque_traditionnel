@@ -1,0 +1,4 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {I}Les hommes et les femmes qui font le cirque traditionnel}{13}{}%
+\contentsline {section}{Even Landri, le gladiateur des temps modernes}{13}{}%
+\contentsline {section}{Pierre Marchand, le virtuose du diabolo}{16}{}%
