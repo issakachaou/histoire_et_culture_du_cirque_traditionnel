@@ -1,4 +1,12 @@
 \babel@toc {french}{}\relax 
-\contentsline {chapter}{\numberline {I}Les hommes et les femmes qui font le cirque traditionnel}{13}{}%
+\contentsline {chapter}{Introduction}{9}{}%
+\contentsline {chapter}{\numberline {I}Les visages du cirque traditionnel}{13}{}%
 \contentsline {section}{Even Landri, le gladiateur des temps modernes}{13}{}%
 \contentsline {section}{Pierre Marchand, le virtuose du diabolo}{16}{}%
+\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{19}{}%
+\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{21}{}%
+\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{22}{}%
+\contentsline {section}{Sacha Krosemann Jr, la nouvelle génération entre en cage}{24}{}%
+\contentsline {section}{Théo Leroy, un rêve devenu réalité}{26}{}%
+\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{28}{}%
+\contentsline {section}{Maeven Prein, un artiste complet}{29}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  27 MAR 2024 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  18 APR 2024 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -69,60 +69,18 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/libertine\libertine.sty
-Package: libertine 2023/11/26 (Bob Tennent) Supports Libertine and Biolinum fon
-ts for all LaTeX engines.
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
-)
-\XKV@depth=\count194
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
-Package: fontaxes 2020/07/21 v1.0e Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
-)
-LaTeX Info: Redefining \oldstylenums on input line 485.
-
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLibertine_
-I.tex))
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/10/04 3.81 The Babel package
-\babel@savecnt=\count195
+\babel@savecnt=\count194
 \U@D=\dimen143
 \l@unhyphenated=\language79
 
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count196
+\bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
@@ -138,19 +96,19 @@ Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language22). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
 (babel)             (\language22). Reported on input line 92.
-\FB@nonchar=\count197
+\FB@nonchar=\count196
 Package babel Info: Making : an active character on input line 395.
 Package babel Info: Making ; an active character on input line 396.
 Package babel Info: Making ! an active character on input line 397.
 Package babel Info: Making ? an active character on input line 398.
-\FBguill@level=\count198
-\FBold@everypar=\toks21
+\FBguill@level=\count197
+\FBold@everypar=\toks19
 \FB@Mht=\dimen144
-\mc@charclass=\count199
-\mc@charfam=\count266
-\mc@charslot=\count267
-\std@mcc=\count268
-\dec@mcc=\count269
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
 \FB@parskip=\dimen145
 \listindentFB=\dimen146
 \descindentFB=\dimen147
@@ -168,26 +126,24 @@ Package babel Info: Importing font and identification data for french
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
-on input line 112.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
 
-(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxlibert
-inet-tlf.fd
-File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
-nuxLibertineT-TLF.
-)
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 112.
-)
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count270
-\Gm@cntv=\count271
-\c@Gm@tempcnt=\count272
+
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
 \Gm@bindingoffset=\dimen153
 \Gm@wd@mp=\dimen154
 \Gm@odd@mp=\dimen155
@@ -196,7 +152,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen158
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
-\Gm@dimlist=\toks22
+\Gm@dimlist=\toks20
 
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
@@ -243,8 +199,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip84
 \cftfigindent=\skip85
 \cftfignumwidth=\skip86
-\c@lofdepth=\count273
-\c@lotdepth=\count274
+\c@lofdepth=\count272
+\c@lotdepth=\count273
 \cftbeforelottitleskip=\skip87
 \cftafterlottitleskip=\skip88
 \cftbeforetabskip=\skip89
@@ -257,7 +213,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \aftertitleunit=\skip93
 \ttl@plus=\dimen161
 \ttl@minus=\dimen162
-\ttl@toksa=\toks23
+\ttl@toksa=\toks21
 \titlewidth=\dimen163
 \titlewidthlast=\dimen164
 \titlewidthfirst=\dimen165
@@ -265,7 +221,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
+\l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box52
 ) (main.aux (TeX_files/chapter01.aux) (TeX_files/chapter02.aux))
 \openout1 = `main.aux'.
@@ -288,17 +244,17 @@ LaTeX Font Info:    ... okay on input line 26.
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count276
+\scratchcounter=\count275
 \scratchdimen=\dimen166
 \scratchbox=\box53
-\nofMPsegments=\count277
-\nofMParguments=\count278
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count279
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count278
 \MPscratchDim=\dimen167
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks23
 )
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -310,8 +266,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count282
-\c@mv@boldtabular=\count283
 LaTeX Info: Redefining \degres on input line 26.
 LaTeX Info: Redefining \up on input line 26.
 
@@ -351,23 +305,16 @@ LaTeX Info: Redefining \up on input line 26.
 
 [1
 
-] [2]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 47.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 47.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 20.74pt on input line 47.
- [3{C:/Users/issak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[4] [5] [6] [7] [8]
+] [2] [3{C:/Users/issak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+ [1] [1] [2] [8]
 \openout2 = `./TeX_files/chapter01.aux'.
 
  (TeX_files/chapter01.tex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 1.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 1.
-
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
@@ -380,96 +327,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  (TeX_files/chapter02.tex
 Chapitre I.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 2.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 2.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 17.28pt on input line 2.
+
+Overfull \hbox (3.1364pt too wide) in paragraph at lines 2--2
+|\T1/ptm/b/it/17.28 Even Lan-dri, le gla-dia-teur des temps mo-
+ []
+
 [13
 
 
 
 
-]
-Overfull \hbox (5.8378pt too wide) in paragraph at lines 7--8
-\T1/LinuxLibertineT-TLF/m/n/12 ans plus tard, en 2010, Even Lan-dri in-tègre de
-ux tigres blancs
+] [14]
+Overfull \hbox (4.08029pt too wide) in paragraph at lines 17--18
+[]\T1/ptm/m/n/12 Pierre Ma-zieri, plus connu sous son nom de scène ``Pierre
  []
 
 
-Overfull \hbox (3.9573pt too wide) in paragraph at lines 7--8
-\T1/LinuxLibertineT-TLF/m/n/12 à son nu-méro mixte de fauves, dé-sor-mais com-p
-osé de quatre
+Overfull \hbox (0.47118pt too wide) in paragraph at lines 17--18
+\T1/ptm/m/n/12 rents sont tous deux en-sei-gnants, rien ne le pré-des-ti-nait d
+onc
  []
 
-[14] [15]
-Overfull \hbox (5.2142pt too wide) in paragraph at lines 19--20
-[]\T1/LinuxLibertineT-TLF/m/n/12 Pierre Ma-zieri, plus connu sous son nom de sc
-ène ``Pierre
- []
-
-
-Overfull \hbox (2.86407pt too wide) in paragraph at lines 19--20
-\T1/LinuxLibertineT-TLF/m/n/12 plein d'éner-gie. Mal-heu-reu-se-ment, quelque t
-emps plus tard,
+[15]
+Overfull \hbox (4.90875pt too wide) in paragraph at lines 19--20
+[]\T1/ptm/m/n/12 Peu ha-bi-tué à son nou-vel en-vi-ron-ne-ment, l'Île-de-France
+,
  []
 
 
-Overfull \hbox (7.82893pt too wide) in paragraph at lines 21--22
-[]\T1/LinuxLibertineT-TLF/m/n/12 Peu ha-bi-tué à son nou-vel en-vi-ron-ne-ment,
- l'Île-de-France,
+Overfull \hbox (3.55505pt too wide) in paragraph at lines 21--22
+\T1/ptm/m/n/12 il pourra plei-ne-ment s'épa-nouir, le par-fait mé-lange de l'éc
+ole
  []
 
-[16] [17])
-Overfull \hbox (0.63336pt too wide) in paragraph at lines 32--72
-\T1/LinuxLibertineT-TLF/m/n/12 moi comme pour de nom-breux pas-sion-nés, même s
-i ce n'est
+[16]
+Overfull \hbox (4.80049pt too wide) in paragraph at lines 23--24
+[]\T1/ptm/m/n/12 Son nu-méro qu'il pré-sente en-core au-jour-d'hui et le même
  []
 
-[18] [19] (main.toc
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 2.
+
+Overfull \hbox (2.37679pt too wide) in paragraph at lines 25--26
+[]\T1/ptm/m/n/12 Vincent La-gaff lui pro-pose de pré-sen-ter son nu-méro dans
+ []
+
+
+Overfull \hbox (7.80283pt too wide) in paragraph at lines 25--26
+\T1/ptm/m/n/12 car-rière de ce-lui qui se fera re-con-naitre mon-dia-le-ment co
+mme
+ []
+
+
+Overfull \hbox (8.36758pt too wide) in paragraph at lines 25--26
+\T1/ptm/m/n/12 duira dans de nom-breux fes-ti-vals de cirque à tra-vers le mond
+e.
+ []
+
+[17]
+Overfull \hbox (6.90341pt too wide) in paragraph at lines 29--30
+\T1/ptm/m/n/12 avant de par-tir l'an-née sui-vante pour le Da-ne-mark et la Suè
+de.
+ []
+
+[18] [19]
+Overfull \hbox (0.15617pt too wide) in paragraph at lines 43--44
+[]\T1/ptm/m/n/12 En 1999, il se pré-sente au fes-ti-val in-ter-na-tio-nal du ci
+rque
+ []
+
+[20]
+Overfull \hbox (3.08507pt too wide) in paragraph at lines 51--52
+[]\T1/ptm/m/n/12 Banbino Mou-re-don est né le 5 sep-tembre 1940 au Grand-
+ []
+
+[21] [22]
+Overfull \hbox (3.9993pt too wide) in paragraph at lines 67--68
+\T1/ptm/m/n/12 fait par-tie du Be-ruf-sver-band der Tier-leh-rer, l'as-so-cia-t
+ion pro-
+ []
+
+[23] [24] [25]
+Overfull \hbox (4.32301pt too wide) in paragraph at lines 85--86
+\T1/ptm/m/n/12 Leroy-Marty. Même si au-jour-d'hui cette en-tre-prise n'est plus
+
+ []
+
+[26]
+Overfull \hbox (6.60294pt too wide) in paragraph at lines 91--92
+\T1/ptm/m/n/12 avec le Nou-veau Cirque Za-vatta de la fa-mille Falck. À l'heure
+
+ []
+
+
+Overfull \hbox (4.75246pt too wide) in paragraph at lines 95--96
+[]\T1/ptm/m/n/12 L'histoire d'Ar-thur et Car-men Möl-ler com-mence en 1960
+ []
+
+[27] [28]) [29] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-
-Overfull \hbox (4.83229pt too wide) in paragraph at lines 2--2
- [][] []\T1/LinuxLibertineT-TLF/b/n/12 Les hommes et les femmes qui font 
- []
-
 )
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
  
 AED: lastpage setting LastPage
-[20
+[30
 
 
 ] (main.aux (TeX_files/chapter01.aux) (TeX_files/chapter02.aux)) ) 
 Here is how much of TeX's memory you used:
- 6050 strings out of 475385
- 108649 string characters out of 2776907
- 468061 words of memory out of 3000000
- 27343 multiletter control sequences out of 15000+600000
- 523118 words of font info for 52 fonts, out of 8000000 for 9000
+ 4922 strings out of 475385
+ 82857 string characters out of 2776907
+ 452510 words of memory out of 3000000
+ 26237 multiletter control sequences out of 15000+600000
+ 504442 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,6n,62p,2585b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/iss
-ak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/
-Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq
-.enc}{C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lb
-tn_ki75ao.enc}<C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-libertine/LinLibertineT.pfb><C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/libertine/LinLibertineTB.pfb><C:/Users/issak/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/libertine/LinLibertineTBI.pfb>
-Output written on main.pdf (20 pages, 250435 bytes).
+ak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/issak/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/issak/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/issak/A
+ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/issak/A
+ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (30 pages, 107879 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
