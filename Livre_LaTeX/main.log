@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  18 APR 2024 22:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  20 APR 2024 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,7 +422,7 @@ Overfull \hbox (4.75246pt too wide) in paragraph at lines 95--96
 []\T1/ptm/m/n/12 L'histoire d'Ar-thur et Car-men Möl-ler com-mence en 1960
  []
 
-[27] [28]) [29] (main.toc
+[27] [28] [29] [30]) [31] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -435,7 +435,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  
 AED: lastpage setting LastPage
-[30
+[32
 
 
 ] (main.aux (TeX_files/chapter01.aux) (TeX_files/chapter02.aux)) ) 
@@ -453,9 +453,9 @@ pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/issak/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/issak/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/issak/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (30 pages, 107879 bytes).
+Output written on main.pdf (32 pages, 113046 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

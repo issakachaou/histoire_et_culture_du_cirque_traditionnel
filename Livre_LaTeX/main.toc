@@ -10,3 +10,4 @@
 \contentsline {section}{Théo Leroy, un rêve devenu réalité}{26}{}%
 \contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{28}{}%
 \contentsline {section}{Maeven Prein, un artiste complet}{29}{}%
+\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{29}{}%
