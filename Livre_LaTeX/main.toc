@@ -11,3 +11,4 @@
 \contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{28}{}%
 \contentsline {section}{Maeven Prein, un artiste complet}{29}{}%
 \contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{29}{}%
+\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{31}{}%
