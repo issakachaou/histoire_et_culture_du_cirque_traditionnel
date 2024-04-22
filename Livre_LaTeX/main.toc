@@ -1,14 +1,21 @@
 \babel@toc {french}{}\relax 
 \contentsline {chapter}{Introduction}{9}{}%
-\contentsline {chapter}{\numberline {I}Les visages du cirque traditionnel}{13}{}%
-\contentsline {section}{Even Landri, le gladiateur des temps modernes}{13}{}%
-\contentsline {section}{Pierre Marchand, le virtuose du diabolo}{16}{}%
-\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{19}{}%
-\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{21}{}%
-\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{22}{}%
-\contentsline {section}{Sacha Krosemann Jr, la nouvelle génération entre en cage}{24}{}%
-\contentsline {section}{Théo Leroy, un rêve devenu réalité}{26}{}%
-\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{28}{}%
-\contentsline {section}{Maeven Prein, un artiste complet}{29}{}%
-\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{29}{}%
-\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{31}{}%
+\contentsline {chapter}{\numberline {I}Origines du cirque traditionnel}{13}{}%
+\contentsline {chapter}{\numberline {II}Les grandes familles circassiennes}{14}{}%
+\contentsline {chapter}{\numberline {III}Les grands cirques traditionnels}{15}{}%
+\contentsline {chapter}{\numberline {IV}Les visages du cirque traditionnel}{16}{}%
+\contentsline {section}{Even Landri, le gladiateur des temps modernes}{16}{}%
+\contentsline {section}{Pierre Marchand, le virtuose du diabolo}{19}{}%
+\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{22}{}%
+\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{24}{}%
+\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{25}{}%
+\contentsline {section}{Sacha Krosemann Jr, la nouvelle génération entre en cage}{27}{}%
+\contentsline {section}{Théo Leroy, un rêve devenu réalité}{29}{}%
+\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{31}{}%
+\contentsline {section}{Maeven Prein, un artiste complet}{32}{}%
+\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{32}{}%
+\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{34}{}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{35}{}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{36}{}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{37}{}%
+\contentsline {chapter}{Remerciements}{38}{}%
