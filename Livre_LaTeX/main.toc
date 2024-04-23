@@ -1,21 +1,22 @@
 \babel@toc {french}{}\relax 
-\contentsline {chapter}{Introduction}{9}{}%
-\contentsline {chapter}{\numberline {I}Origines du cirque traditionnel}{13}{}%
-\contentsline {chapter}{\numberline {II}Les grandes familles circassiennes}{14}{}%
-\contentsline {chapter}{\numberline {III}Les grands cirques traditionnels}{15}{}%
-\contentsline {chapter}{\numberline {IV}Les visages du cirque traditionnel}{16}{}%
-\contentsline {section}{Even Landri, le gladiateur des temps modernes}{16}{}%
-\contentsline {section}{Pierre Marchand, le virtuose du diabolo}{19}{}%
-\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{22}{}%
-\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{24}{}%
-\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{25}{}%
-\contentsline {section}{Sacha Krosemann Jr, la nouvelle génération entre en cage}{27}{}%
-\contentsline {section}{Théo Leroy, un rêve devenu réalité}{29}{}%
-\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{31}{}%
-\contentsline {section}{Maeven Prein, un artiste complet}{32}{}%
-\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{32}{}%
-\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{34}{}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{35}{}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{36}{}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{37}{}%
-\contentsline {chapter}{Remerciements}{38}{}%
+\contentsline {chapter}{Introduction}{9}{chapter*.1}%
+\contentsline {chapter}{\numberline {I}Origines du cirque traditionnel}{13}{chapter.1}%
+\contentsline {chapter}{\numberline {II}Les grandes familles circassiennes}{14}{chapter.2}%
+\contentsline {chapter}{\numberline {III}Les grands cirques traditionnels}{15}{chapter.3}%
+\contentsline {chapter}{\numberline {IV}Les visages du cirque traditionnel}{16}{chapter.4}%
+\contentsline {section}{Even Landri, le gladiateur des temps modernes}{16}{section*.2}%
+\contentsline {section}{Pierre Marchand, le virtuose du diabolo}{19}{section*.2}%
+\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{22}{section*.2}%
+\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{24}{section*.2}%
+\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{25}{section*.2}%
+\contentsline {section}{Sacha Krosemann Jr, la nouvelle génération entre en cage}{27}{section*.2}%
+\contentsline {section}{Théo Leroy, un rêve devenu réalité}{29}{section*.2}%
+\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{31}{section*.2}%
+\contentsline {section}{Maeven Prein, un artiste complet}{32}{section*.2}%
+\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{32}{section*.2}%
+\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{35}{section*.2}%
+\contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{35}{section*.2}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{38}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{39}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{40}{chapter.7}%
+\contentsline {chapter}{Remerciements}{41}{chapter*.3}%
