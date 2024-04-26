@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  25 APR 2024 23:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  26 APR 2024 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,49 +618,82 @@ Overfull \hbox (4.32301pt too wide) in paragraph at lines 100--101
  []
 
 [29]
-Overfull \hbox (6.60294pt too wide) in paragraph at lines 106--107
-\T1/ptm/m/n/12 avec le Nou-veau Cirque Za-vatta de la fa-mille Falck. À l'heure
-
- []
-
-
 Overfull \hbox (4.75246pt too wide) in paragraph at lines 112--113
 []\T1/ptm/m/n/12 L'histoire d'Ar-thur et Car-men Möl-ler com-mence en 1960
  []
 
-[30] [31] [32] [33]
+
+Overfull \hbox (4.6954pt too wide) in paragraph at lines 112--113
+\T1/ptm/m/n/12 abords de la cage. Ar-thur ac-cepta et les deux dres-seurs puren
+t
+ []
+
+[30] [31] [32] [33] [34]
+Overfull \hbox (1.98001pt too wide) in paragraph at lines 166--167
+[]\T1/ptm/m/n/12 À l'été 2022, en va-cances avec ses grands-parents à Gué-
+ []
+
+[35]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 159.
+(Font)              <12> on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 159.
+(Font)              <8> on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 159.
- [34] [35]
-Overfull \hbox (3.44698pt too wide) in paragraph at lines 169--170
+(Font)              <6> on input line 176.
+ [36]
+Overfull \hbox (3.44698pt too wide) in paragraph at lines 186--187
 \T1/ptm/m/n/12 nal d'Au-triche Louis Knie. Mais éga-le-ment dans des théâtres
  []
 
-
-Overfull \hbox (1.8758pt too wide) in paragraph at lines 171--172
+[37]
+Overfull \hbox (1.8758pt too wide) in paragraph at lines 188--189
 \T1/ptm/m/n/12 puis-qu'elle re-ga-gnera vite le monde du cirque dans une toute
  []
 
-[36]
-Overfull \hbox (3.43007pt too wide) in paragraph at lines 175--175
+
+Overfull \hbox (3.43007pt too wide) in paragraph at lines 192--192
 |\T1/ptm/b/it/17.28 Henri Dan-tès, le domp-teur du plus grand
  []
 
 
-Overfull \hbox (18.11807pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.21713pt too wide) in paragraph at lines 195--196
+[]\T1/ptm/m/n/12 Heinrich Hon-vehl-mann, plus connu sous le nom d'Henri
+ []
+
+[38]
+Overfull \hbox (1.52428pt too wide) in paragraph at lines 207--208
+[]\T1/ptm/m/n/12 Son tra-vail de qua-lité lui fit une ré-pu-ta-tion dans le mon
+de
+ []
+
+[39]
+Overfull \hbox (4.5507pt too wide) in paragraph at lines 211--212
+\T1/ptm/m/n/12 l'émis-sion La Piste aux étoiles de Gilles Mar-ga-ri-tis. En 196
+7,
+ []
+
+
+Overfull \hbox (2.77536pt too wide) in paragraph at lines 211--212
+\T1/ptm/m/n/12 d'Hi-ver Bou-glione, dont les images sont en-core vi-sion-nables
+
+ []
+
+
+Overfull \hbox (2.04361pt too wide) in paragraph at lines 211--212
+\T1/ptm/m/n/12 pré-senté par Jerry Le-wis au Cirque d'Hi-ver Bou-glione, Jean-
+ []
+
+
+Overfull \hbox (18.11807pt too wide) in paragraph at lines 215--215
 |\T1/ptm/b/it/17.28 Michel Pal-mer, Mon-sieur Loyal des grands
  []
 
-) [37]
+) [40]
 \openout2 = `Chapitre_05.aux'.
 
  (Chapitre_05.tex
 Chapitre V.
-) [38
+) [41
 
 
 
@@ -670,7 +703,7 @@ Chapitre V.
 
  (Chapitre_06.tex
 Chapitre VI.
-) [39
+) [42
 
 
 
@@ -680,7 +713,7 @@ Chapitre VI.
 
  (Chapitre_07.tex
 Chapitre VII.
-) [40
+) [43
 
 
 
@@ -688,12 +721,12 @@ Chapitre VII.
 ]
 \openout2 = `Remerciement.aux'.
 
- (Remerciement.tex) [41
+ (Remerciement.tex) [44
 
 
 
 
-] (main.toc [42
+] (main.toc [45
 
 
 ]
@@ -707,28 +740,28 @@ Overfull \hbox (12.72426pt too wide) in paragraph at lines 22--22
 
  
 AED: lastpage setting LastPage
-[43] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
+[46] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4343BA55F290C80C83E0ADFE58F1E987;6638.
  ) 
 Here is how much of TeX's memory you used:
- 12205 strings out of 475385
- 202094 string characters out of 2776907
+ 12208 strings out of 475385
+ 202115 string characters out of 2776907
  565663 words of memory out of 3000000
  33298 multiletter control sequences out of 15000+600000
  507164 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,2588b,687s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,2588b,689s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (43 pages, 152665 bytes).
+Output written on main.pdf (46 pages, 161853 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

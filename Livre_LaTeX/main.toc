@@ -15,11 +15,11 @@
 \contentsline {section}{Maeven Prein, un artiste complet}{32}{section*.10}%
 \contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{32}{section*.11}%
 \contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{34}{section*.12}%
-\contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{35}{section*.13}%
-\contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{37}{section*.14}%
-\contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{37}{section*.15}%
-\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{37}{section*.16}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{38}{chapter.5}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{39}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{40}{chapter.7}%
-\contentsline {chapter}{Remerciements}{41}{chapter*.17}%
+\contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{36}{section*.13}%
+\contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{38}{section*.14}%
+\contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{40}{section*.15}%
+\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{40}{section*.16}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{41}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{42}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{43}{chapter.7}%
+\contentsline {chapter}{Remerciements}{44}{chapter*.17}%
