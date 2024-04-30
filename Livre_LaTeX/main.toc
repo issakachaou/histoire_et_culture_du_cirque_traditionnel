@@ -18,8 +18,8 @@
 \contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{36}{section*.13}%
 \contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{38}{section*.14}%
 \contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{40}{section*.15}%
-\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{40}{section*.16}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{41}{chapter.5}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{42}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{43}{chapter.7}%
-\contentsline {chapter}{Remerciements}{44}{chapter*.17}%
+\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{42}{section*.16}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{44}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{45}{chapter.7}%
+\contentsline {chapter}{Remerciements}{46}{chapter*.17}%

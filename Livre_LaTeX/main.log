@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  28 APR 2024 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  30 APR 2024 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -688,12 +688,30 @@ Overfull \hbox (18.11807pt too wide) in paragraph at lines 215--215
 |\T1/ptm/b/it/17.28 Michel Pal-mer, Mon-sieur Loyal des grands
  []
 
-) [40]
+
+Overfull \hbox (0.37526pt too wide) in paragraph at lines 219--220
+\T1/ptm/m/n/12 jours été pas-sionné de cirque de-puis son en-fance. D'ailleurs,
+
+ []
+
+
+Overfull \hbox (3.05127pt too wide) in paragraph at lines 219--220
+\T1/ptm/m/n/12 sait pen-dant des heures à pré-sen-ter les nu-mé-ros de son cirq
+ue
+ []
+
+[40]
+Overfull \hbox (9.21893pt too wide) in paragraph at lines 225--226
+\T1/ptm/m/n/12 Cirque Ar-lette Grüss. C'est une op-por-tu-nité in-édite qui s'o
+ffre
+ []
+
+[41]) [42]
 \openout2 = `Chapitre_05.aux'.
 
  (Chapitre_05.tex
 Chapitre V.
-) [41
+) [43
 
 
 
@@ -703,7 +721,7 @@ Chapitre V.
 
  (Chapitre_06.tex
 Chapitre VI.
-) [42
+) [44
 
 
 
@@ -713,7 +731,7 @@ Chapitre VI.
 
  (Chapitre_07.tex
 Chapitre VII.
-) [43
+) [45
 
 
 
@@ -721,12 +739,12 @@ Chapitre VII.
 ]
 \openout2 = `Remerciement.aux'.
 
- (Remerciement.tex) [44
+ (Remerciement.tex) [46
 
 
 
 
-] (main.toc [45
+] (main.toc [47
 
 
 ]
@@ -740,15 +758,15 @@ Overfull \hbox (12.72426pt too wide) in paragraph at lines 22--22
 
  
 AED: lastpage setting LastPage
-[46] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
+[48] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4343BA55F290C80C83E0ADFE58F1E987;6638.
  ) 
 Here is how much of TeX's memory you used:
- 12208 strings out of 475385
- 202115 string characters out of 2776907
+ 12210 strings out of 475385
+ 202129 string characters out of 2776907
  565663 words of memory out of 3000000
  33298 multiletter control sequences out of 15000+600000
  507164 words of font info for 64 fonts, out of 8000000 for 9000
@@ -759,9 +777,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (46 pages, 162288 bytes).
+Output written on main.pdf (48 pages, 166542 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
