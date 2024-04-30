@@ -19,7 +19,11 @@
 \contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{41}{section*.14}%
 \contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{43}{section*.15}%
 \contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{45}{section*.16}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{47}{chapter.5}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{49}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{51}{chapter.7}%
-\contentsline {chapter}{Remerciements}{53}{chapter*.17}%
+\contentsline {section}{Joseph Bouglione, d’écuyers hors pair à directeur artistique}{47}{section*.17}%
+\contentsline {section}{Alfred Beautour, l’homme aux léopards}{47}{section*.18}%
+\contentsline {section}{Dani Lary, le piano volant}{47}{section*.19}%
+\contentsline {section}{Florian Richter, la culture équestre du cirque magyar}{47}{section*.20}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{49}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{51}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{53}{chapter.7}%
+\contentsline {chapter}{Remerciements}{55}{chapter*.21}%
