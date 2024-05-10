@@ -24,45 +24,46 @@ The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 Database file #1: ref_hcct.bib
 Warning--to sort, need author or key in noauthor_biographie_nodate
-You've used 10 entries,
+Warning--to sort, need author or key in rogerfalck2
+You've used 15 entries,
             2118 wiz_defined-function locations,
-            554 strings with 5058 characters,
-and the built_in function-call counts, 2104 in all, are:
-= -- 186
-> -- 64
+            572 strings with 5546 characters,
+and the built_in function-call counts, 3057 in all, are:
+= -- 274
+> -- 93
 < -- 0
-+ -- 28
-- -- 18
-* -- 83
-:= -- 370
-add.period$ -- 28
-call.type$ -- 10
-change.case$ -- 31
++ -- 41
+- -- 26
+* -- 117
+:= -- 532
+add.period$ -- 40
+call.type$ -- 15
+change.case$ -- 50
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 113
-empty$ -- 217
-format.name$ -- 18
-if$ -- 449
+cite$ -- 17
+duplicate$ -- 157
+empty$ -- 313
+format.name$ -- 26
+if$ -- 651
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 17
-newline$ -- 51
-num.names$ -- 18
-pop$ -- 74
+int.to.str$ -- 15
+missing$ -- 20
+newline$ -- 73
+num.names$ -- 26
+pop$ -- 102
 preamble$ -- 1
-purify$ -- 29
+purify$ -- 43
 quote$ -- 0
-skip$ -- 64
+skip$ -- 105
 stack$ -- 0
-substring$ -- 50
-swap$ -- 10
+substring$ -- 75
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
-warning$ -- 1
-while$ -- 18
-width$ -- 12
-write$ -- 99
-(There was 1 warning)
+type$ -- 44
+warning$ -- 2
+while$ -- 26
+width$ -- 17
+write$ -- 141
+(There were 2 warnings)
