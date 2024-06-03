@@ -27,45 +27,45 @@ Warning--entry type for "villa:dumas-03346336" isn't style-file defined
 --line 237 of file ref_hcct.bib
 Warning--to sort, need author or key in noauthor_biographie_nodate
 Warning--to sort, need author or key in rogerfalck2
-You've used 21 entries,
+You've used 27 entries,
             2118 wiz_defined-function locations,
-            592 strings with 6257 characters,
-and the built_in function-call counts, 4230 in all, are:
-= -- 375
-> -- 135
+            613 strings with 6721 characters,
+and the built_in function-call counts, 5410 in all, are:
+= -- 479
+> -- 177
 < -- 0
-+ -- 59
-- -- 38
-* -- 151
-:= -- 727
-add.period$ -- 53
-call.type$ -- 21
-change.case$ -- 74
++ -- 77
+- -- 50
+* -- 187
+:= -- 929
+add.period$ -- 67
+call.type$ -- 27
+change.case$ -- 98
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 202
-empty$ -- 440
-format.name$ -- 38
-if$ -- 903
+cite$ -- 29
+duplicate$ -- 250
+empty$ -- 562
+format.name$ -- 50
+if$ -- 1153
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 21
-newline$ -- 98
-num.names$ -- 38
-pop$ -- 147
+int.to.str$ -- 27
+missing$ -- 23
+newline$ -- 124
+num.names$ -- 50
+pop$ -- 187
 preamble$ -- 1
-purify$ -- 61
+purify$ -- 79
 quote$ -- 0
-skip$ -- 160
+skip$ -- 214
 stack$ -- 0
-substring$ -- 105
-swap$ -- 21
+substring$ -- 135
+swap$ -- 27
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
+type$ -- 92
 warning$ -- 2
-while$ -- 38
-width$ -- 23
-write$ -- 187
+while$ -- 50
+width$ -- 29
+write$ -- 235
 (There were 3 warnings)
