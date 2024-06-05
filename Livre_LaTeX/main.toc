@@ -21,9 +21,9 @@
 \contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{45}{section*.16}%
 \contentsline {section}{Joseph Bouglione, d’écuyers hors pair à directeur artistique}{47}{section*.17}%
 \contentsline {section}{Alfred Beautour, l’homme aux léopards}{51}{section*.18}%
-\contentsline {section}{Dani Lary, le piano volant}{51}{section*.19}%
-\contentsline {section}{Florian Richter, la culture équestre du cirque magyar}{51}{section*.20}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{53}{chapter.5}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{55}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{57}{chapter.7}%
-\contentsline {chapter}{Remerciements}{59}{chapter*.21}%
+\contentsline {section}{Dani Lary, le piano volant}{53}{section*.19}%
+\contentsline {section}{Florian Richter, la culture équestre du cirque magyar}{53}{section*.20}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés de Monté Carlo et d’autres festivals}{55}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{57}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{59}{chapter.7}%
+\contentsline {chapter}{Remerciements}{61}{chapter*.21}%
