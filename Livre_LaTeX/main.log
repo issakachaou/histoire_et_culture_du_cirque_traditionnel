@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  5 JUN 2024 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  6 JUN 2024 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,28 +867,33 @@ Overfull \hbox (12.72426pt too wide) in paragraph at lines 26--26
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
-1.
+4.
 
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 2042) in paragraph at lines 94--96
+Underfull \hbox (badness 2042) in paragraph at lines 107--109
 []\T1/ptm/m/n/12 Programme.  Cirque Ar-lette Grüss | Pous-sières
  []
 
-[66]) 
+[66]
+Underfull \hbox (badness 4467) in paragraph at lines 138--142
+[]\T1/ptm/m/n/12 Jean-Marc Tous-saint.  L'em-preinte du gé-né-ral
+ []
+
+) 
 AED: lastpage setting LastPage
 [67] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 480EE03ACB0EB963EADEB230CBAA1C12;7822.
+(rerunfilecheck)             Checksum: F532B863057811B685F5643A91DCCE9F;7840.
  ) 
 Here is how much of TeX's memory you used:
- 12432 strings out of 475385
- 206498 string characters out of 2776907
- 566906 words of memory out of 3000000
- 33457 multiletter control sequences out of 15000+600000
+ 12452 strings out of 475385
+ 206823 string characters out of 2776907
+ 566986 words of memory out of 3000000
+ 33472 multiletter control sequences out of 15000+600000
  507478 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,2588b,697s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -897,9 +902,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (67 pages, 201545 bytes).
+Output written on main.pdf (67 pages, 202996 bytes).
 PDF statistics:
- 509 PDF objects out of 1000 (max. 8388607)
- 122 named destinations out of 1000 (max. 500000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 127 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
