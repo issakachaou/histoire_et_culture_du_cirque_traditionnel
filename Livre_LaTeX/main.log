@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  11 JUN 2024 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  14 JUN 2024 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,6 +639,11 @@ Overfull \hbox (3.9993pt too wide) in paragraph at lines 78--79
 ion pro-
  []
 
+
+Overfull \hbox (5.57341pt too wide) in paragraph at lines 80--80
+|\T1/ptm/b/it/17.28 Sacha Kro-se-mann Ju-nior, la nou-velle gé-
+ []
+
 [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -837,46 +842,69 @@ toute la France.
 
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
- [58])
+ [58]
+Overfull \hbox (5.82005pt too wide) in paragraph at lines 328--329
+[]\T1/ptm/m/n/12 La car-rière de Fló-rián Rich-ter dé-bute en 1986. A l'époque
+ []
+
 [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60]
+Overfull \hbox (5.6183pt too wide) in paragraph at lines 336--337
+\T1/ptm/m/n/12 re-pré-sen-ta-tions na-tio-nales et in-ter-na-tio-nales. Sa se-c
+onde mis-
+ []
+
+
+Overfull \hbox (2.53575pt too wide) in paragraph at lines 338--339
+\T1/ptm/m/n/12 au-jour-d'hui un bel éta-blis-se-ment hon-grois. Le 12 mars 2016
+,
+ []
+
+
+Underfull \vbox (badness 3679) has occurred while \output is active []
+
+ [61])
+[62]
 \openout2 = `Chapitre_05.aux'.
 
- (Chapitre_05.tex [60
+ (Chapitre_05.tex
+Chapitre V.
+) [63
 
 
 
 
 ]
-Chapitre V.
-) [61]
 \openout2 = `Chapitre_06.aux'.
 
- (Chapitre_06.tex [62
+ (Chapitre_06.tex [64
 
 
 
 
 ]
 Chapitre VI.
-) [63]
+) [65]
 \openout2 = `Chapitre_07.aux'.
 
- (Chapitre_07.tex [64
+ (Chapitre_07.tex [66
 
 
 
 
 ]
 Chapitre VII.
-) [65]
+) [67]
 \openout2 = `Remerciement.aux'.
 
- (Remerciement.tex [66
+ (Remerciement.tex [68
 
 
 
 
-]) [67] (main.toc [68
+]) [69] (main.toc [70
 
 
 ]
@@ -888,7 +916,7 @@ Overfull \hbox (12.72426pt too wide) in paragraph at lines 26--26
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [69] [70] (main.bbl [71
+ [71] [72] (main.bbl [73
 
 
 ]
@@ -902,22 +930,22 @@ Underfull \hbox (badness 2042) in paragraph at lines 107--109
 []\T1/ptm/m/n/12 Programme.  Cirque Ar-lette Grüss | Pous-sières
  []
 
-[72]
+[74]
 Underfull \hbox (badness 4467) in paragraph at lines 164--168
 []\T1/ptm/m/n/12 Jean-Marc Tous-saint.  L'em-preinte du gé-né-ral
  []
 
-[73]) 
+[75]) 
 AED: lastpage setting LastPage
-[74] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
+[76] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3F266CA300C5651E46FD8B415E13F09C;7846.
+(rerunfilecheck)             Checksum: 059DBAAEF528DCDB04539736C69618FE;7866.
  ) 
 Here is how much of TeX's memory you used:
- 12483 strings out of 475385
- 207270 string characters out of 2776907
+ 12485 strings out of 475385
+ 207284 string characters out of 2776907
  567082 words of memory out of 3000000
  33490 multiletter control sequences out of 15000+600000
  507478 words of font info for 65 fonts, out of 8000000 for 9000
@@ -928,9 +956,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (74 pages, 220852 bytes).
+Output written on main.pdf (76 pages, 228036 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
+ 561 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
