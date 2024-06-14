@@ -28,45 +28,45 @@ Warning--entry type for "villa:dumas-03346336" isn't style-file defined
 Warning--to sort, need author or key in noauthor_biographie_nodate
 Warning--to sort, need author or key in rogerfalck2
 Warning--to sort, need author or key in danilary1
-You've used 39 entries,
+You've used 52 entries,
             2118 wiz_defined-function locations,
-            648 strings with 7685 characters,
-and the built_in function-call counts, 7747 in all, are:
-= -- 681
-> -- 255
+            688 strings with 9211 characters,
+and the built_in function-call counts, 10316 in all, are:
+= -- 909
+> -- 346
 < -- 0
-+ -- 111
-- -- 72
-* -- 259
-:= -- 1314
-add.period$ -- 94
-call.type$ -- 39
-change.case$ -- 143
++ -- 150
+- -- 98
+* -- 340
+:= -- 1753
+add.period$ -- 124
+call.type$ -- 52
+change.case$ -- 195
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 350
-empty$ -- 817
-format.name$ -- 72
-if$ -- 1658
+cite$ -- 55
+duplicate$ -- 453
+empty$ -- 1083
+format.name$ -- 98
+if$ -- 2204
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 29
-newline$ -- 175
-num.names$ -- 72
-pop$ -- 275
+int.to.str$ -- 52
+missing$ -- 33
+newline$ -- 231
+num.names$ -- 98
+pop$ -- 367
 preamble$ -- 1
-purify$ -- 114
+purify$ -- 153
 quote$ -- 0
-skip$ -- 320
+skip$ -- 430
 stack$ -- 0
-substring$ -- 195
-swap$ -- 39
+substring$ -- 260
+swap$ -- 52
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 136
+type$ -- 188
 warning$ -- 3
-while$ -- 72
-width$ -- 41
-write$ -- 329
+while$ -- 98
+width$ -- 54
+write$ -- 436
 (There were 4 warnings)

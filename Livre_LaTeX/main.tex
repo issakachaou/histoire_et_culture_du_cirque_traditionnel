@@ -1,6 +1,6 @@
 \documentclass[12pt]{book} %report si j'ai un problème%
-\setlength\paperheight{215,9mm}
-\setlength\paperwidth{139,7mm}
+\setlength\paperheight{215,9mm} %215,9mm
+\setlength\paperwidth{139,7mm} %139,7mm
 %\usepackage{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
@@ -16,7 +16,8 @@
 \usepackage{tocloft}
 \usepackage{hyperref}
 \usepackage{titlesec}
-\usepackage{hyphenat} % pour gérer les césure
+\usepackage{hyphenat}% pour gérer les césure
+\usepackage{microtype} % Pour une meilleure justification
 \renewcommand\thechapter{\Roman{chapter}}
 % Commande personnalisée pour une section non numérotée avec lien hypertexte
 
@@ -26,10 +27,18 @@
 \renewcommand{\cftchapaftersnum}{~}
 \renewcommand{\cftchapnumwidth}{6em}
 
+
+% Configuration pour les titres de section
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{\thesection}{1em}{\hyphenchar\font=-1\relax}
+\titlespacing*{\section}{0pt}{*3}{*2}
+
+
 \begin{document}
 \pagestyle{plain} 
-\author{Issa Cirque}
-\title{Histoire et culture du cirque traditionnel}
+\author{{\Large Issa Cirque}}
+\title{{\Huge Histoire et culture \\
+		du\\
+		 cirque traditionnel}}
 \date{}
 
 %\frontmatter

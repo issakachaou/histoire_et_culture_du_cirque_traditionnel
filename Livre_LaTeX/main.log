@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  14 JUN 2024 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  15 JUN 2024 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,49 +371,80 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language80
 LaTeX Info: Redefining \_ on input line 43.
 )
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+\MT@toks=\toks22
+\MT@tempbox=\box52
+\MT@count=\count287
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks23
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen170
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count288
+
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip97
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+))
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box53
 ) (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux)
 (Chapitre_02.aux) (Chapitre_03.aux) (TeX_files/Chapitre_04.aux)
 (Chapitre_05.aux) (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen170
-\scratchbox=\box53
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen171
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count290
+\scratchdimen=\dimen171
+\scratchbox=\box54
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen172
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks25
 )
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -425,8 +456,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \degres on input line 29.
-LaTeX Info: Redefining \up on input line 29.
+LaTeX Info: Redefining \degres on input line 36.
+LaTeX Info: Redefining \up on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -462,24 +493,49 @@ LaTeX Info: Redefining \up on input line 29.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 36.
 (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- [1
+LaTeX Info: Redefining \microtypecontext on input line 36.
+Package microtype Info: Applying patch `item' on input line 36.
+Package microtype Info: Applying patch `toc' on input line 36.
+Package microtype Info: Applying patch `eqnum' on input line 36.
+Package microtype Info: Applying patch `footnote' on input line 36.
+Package microtype Info: Applying patch `verbatim' on input line 36.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 36.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
 
-] [2] [3{C:/Users/issak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [4]
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+[1
+
+] [2] [3{C:/Users/issak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[4]
+(C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 59.
+(Font)              <14.4> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 59.
+(Font)              <7> on input line 68.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 
+l.68 
       [1
 
 ]
@@ -487,13 +543,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 \newpage
+l.73 \newpage
               [2]
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \newpage
+l.81 \newpage
               [3] [8]
 \openout2 = `./TeX_files/Introduction.aux'.
 
@@ -555,116 +611,37 @@ Chapitre III.
 
 ]
 Chapitre IV.
-
-Overfull \hbox (3.1364pt too wide) in paragraph at lines 2--2
-|\T1/ptm/b/it/17.28 Even Lan-dri, le gla-dia-teur des temps mo-
- []
-
-
-Underfull \vbox (badness 1052) has occurred while \output is active []
-
- [19]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Overfull \hbox (4.90875pt too wide) in paragraph at lines 24--25
-[]\T1/ptm/m/n/12 Peu ha-bi-tué à son nou-vel en-vi-ron-ne-ment, l'Île-de-France
-,
- []
+Underfull \vbox (badness 1087) has occurred while \output is active []
 
-
-Overfull \hbox (3.55505pt too wide) in paragraph at lines 26--27
-\T1/ptm/m/n/12 il pourra plei-ne-ment s'épa-nouir, le par-fait mé-lange de l'éc
-ole
- []
-
-[22]
-Overfull \hbox (4.80049pt too wide) in paragraph at lines 28--29
-[]\T1/ptm/m/n/12 Son nu-méro qu'il pré-sente en-core au-jour-d'hui et le même
- []
-
-
-Overfull \hbox (2.37679pt too wide) in paragraph at lines 30--31
-[]\T1/ptm/m/n/12 Vincent La-gaff lui pro-pose de pré-sen-ter son nu-méro dans
- []
-
-
-Overfull \hbox (7.80283pt too wide) in paragraph at lines 30--31
-\T1/ptm/m/n/12 car-rière de ce-lui qui se fera re-con-naitre mon-dia-le-ment co
-mme
- []
-
-
-Overfull \hbox (8.36758pt too wide) in paragraph at lines 30--31
-\T1/ptm/m/n/12 duira dans de nom-breux fes-ti-vals de cirque à tra-vers le mond
-e.
- []
-
-
+ [22]
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [23]
-Overfull \hbox (6.90341pt too wide) in paragraph at lines 34--35
-\T1/ptm/m/n/12 avant de par-tir l'an-née sui-vante pour le Da-ne-mark et la Suè
-de.
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
 [25]
-Overfull \hbox (0.15617pt too wide) in paragraph at lines 50--51
-[]\T1/ptm/m/n/12 En 1999, il se pré-sente au fes-ti-val in-ter-na-tio-nal du ci
-rque
- []
-
-
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [26]
-Overfull \hbox (3.08507pt too wide) in paragraph at lines 60--61
-[]\T1/ptm/m/n/12 Banbino Mou-re-don est né le 5 sep-tembre 1940 au Grand-
- []
-
 [27] [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Overfull \hbox (3.9993pt too wide) in paragraph at lines 78--79
-\T1/ptm/m/n/12 fait par-tie du Be-ruf-sver-band der Tier-leh-rer, l'as-so-cia-t
-ion pro-
- []
-
-
-Overfull \hbox (5.57341pt too wide) in paragraph at lines 80--80
-|\T1/ptm/b/it/17.28 Sacha Kro-se-mann Ju-nior, la nou-velle gé-
- []
-
 [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
-Overfull \hbox (4.32301pt too wide) in paragraph at lines 100--101
-\T1/ptm/m/n/12 Leroy-Marty. Même si au-jour-d'hui cette en-tre-prise n'est plus
+Underfull \vbox (badness 1087) has occurred while \output is active []
 
- []
-
-[32]
-Overfull \hbox (4.75246pt too wide) in paragraph at lines 112--113
-[]\T1/ptm/m/n/12 L'histoire d'Ar-thur et Car-men Möl-ler com-mence en 1960
- []
-
-
-Overfull \hbox (4.6954pt too wide) in paragraph at lines 112--113
-\T1/ptm/m/n/12 abords de la cage. Ar-thur ac-cepta et les deux dres-seurs puren
-t
- []
-
-
+ [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
@@ -675,12 +652,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [36]
-[37]
-Overfull \hbox (1.98001pt too wide) in paragraph at lines 166--167
-[]\T1/ptm/m/n/12 À l'été 2022, en va-cances avec ses grands-parents à Gué-
- []
-
-[38]
+[37] [38]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -688,75 +660,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 176.
  [39]
-Overfull \hbox (3.44698pt too wide) in paragraph at lines 186--187
-\T1/ptm/m/n/12 nal d'Au-triche Louis Knie. Mais éga-le-ment dans des théâtres
- []
-
-
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [40]
-Overfull \hbox (1.8758pt too wide) in paragraph at lines 188--189
-\T1/ptm/m/n/12 puis-qu'elle re-ga-gnera vite le monde du cirque dans une toute
- []
-
-
-Overfull \hbox (3.43007pt too wide) in paragraph at lines 192--192
-|\T1/ptm/b/it/17.28 Henri Dan-tès, le domp-teur du plus grand
- []
-
-
-Overfull \hbox (0.21713pt too wide) in paragraph at lines 195--196
-[]\T1/ptm/m/n/12 Heinrich Hon-vehl-mann, plus connu sous le nom d'Henri
- []
-
-[41]
-Overfull \hbox (1.52428pt too wide) in paragraph at lines 207--208
-[]\T1/ptm/m/n/12 Son tra-vail de qua-lité lui fit une ré-pu-ta-tion dans le mon
-de
- []
-
-[42]
-Overfull \hbox (4.5507pt too wide) in paragraph at lines 211--212
-\T1/ptm/m/n/12 l'émis-sion La Piste aux étoiles de Gilles Mar-ga-ri-tis. En 196
-7,
- []
-
-
-Overfull \hbox (2.77536pt too wide) in paragraph at lines 211--212
-\T1/ptm/m/n/12 d'Hi-ver Bou-glione, dont les images sont en-core vi-sion-nables
-
- []
-
-
-Overfull \hbox (2.04361pt too wide) in paragraph at lines 211--212
-\T1/ptm/m/n/12 pré-senté par Jerry Le-wis au Cirque d'Hi-ver Bou-glione, Jean-
- []
-
-
-Overfull \hbox (18.11807pt too wide) in paragraph at lines 215--215
-|\T1/ptm/b/it/17.28 Michel Pal-mer, Mon-sieur Loyal des grands
- []
-
-
-Overfull \hbox (0.37526pt too wide) in paragraph at lines 219--220
-\T1/ptm/m/n/12 jours été pas-sionné de cirque de-puis son en-fance. D'ailleurs,
-
- []
-
-
-Overfull \hbox (3.05127pt too wide) in paragraph at lines 219--220
-\T1/ptm/m/n/12 sait pen-dant des heures à pré-sen-ter les nu-mé-ros de son cirq
-ue
+[41] [42]
+Overfull \hbox (12.36736pt too wide) in paragraph at lines 215--215
+|\T1/ptm/b/it/17.28 (-20) Michel Pal-mer, Mon-sieur Loyal des grands
  []
 
 [43]
-Overfull \hbox (9.21893pt too wide) in paragraph at lines 225--226
-\T1/ptm/m/n/12 Cirque Ar-lette Grüss. C'est une op-por-tu-nité in-édite qui s'o
-ffre
- []
-
-
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [44]
@@ -771,98 +683,40 @@ Underfull \vbox (badness 3679) has occurred while \output is active []
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [49]
-Overfull \hbox (2.808pt too wide) in paragraph at lines 272--273
-[]\T1/ptm/m/n/12 Cette école pro-pose des stages d'ini-tia-tion au cirque pour
- []
-
-
-Overfull \hbox (2.2108pt too wide) in paragraph at lines 272--273
-\T1/ptm/m/n/12 en-fant et pour adulte, mais ce n'est pas le seul ser-vice qu'el
-le
- []
-
-
-Overfull \hbox (5.58269pt too wide) in paragraph at lines 272--273
-\T1/ptm/m/n/12 de nou-velles choses. La par-ti-cu-la-rité de cette école est qu
-'elle
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
-Overfull \hbox (2.27109pt too wide) in paragraph at lines 280--281
-\T1/ptm/m/n/12 seignes dans l'entre-deux-guerres, parmi les-quels on compte
- []
-
 [51]
-Overfull \hbox (2.30527pt too wide) in paragraph at lines 284--285
-[]\T1/ptm/m/n/12 Alfred se ma-rie avec Yo-lande Prin, le 10 no-vembre 1951,
- []
-
-
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [52]
-[53]
-Overfull \hbox (2.10007pt too wide) in paragraph at lines 300--301
-[]\T1/ptm/m/n/12 La pe-tite car-rière de Dani Lary com-mença lors-qu'il réus-
- []
+Underfull \vbox (badness 2529) has occurred while \output is active []
 
-
+ [53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
-Overfull \hbox (10.8633pt too wide) in paragraph at lines 304--305
-\T1/ptm/m/n/12 quoi son fils vou-lait tant ce ca-mion qui ne fonc-tion-nait pre
-sque
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56]
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
-Overfull \hbox (5.33167pt too wide) in paragraph at lines 316--317
-\T1/ptm/m/n/12 suite. Du-rant 20 ans, Dani aura la lourde tâche de fi-nir chaqu
-e
- []
-
-
-Overfull \hbox (0.93909pt too wide) in paragraph at lines 320--321
-\T1/ptm/m/it/12 des Se-crets \T1/ptm/m/n/12 qui sera une grande réus-site dans 
-toute la France.
- []
-
-
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [58]
-Overfull \hbox (5.82005pt too wide) in paragraph at lines 328--329
-[]\T1/ptm/m/n/12 La car-rière de Fló-rián Rich-ter dé-bute en 1986. A l'époque
+Overfull \hbox (2.22844pt too wide) in paragraph at lines 328--329
+[]\T1/ptm/m/n/12 (-20) La car-rière de Fló-rián Rich-ter dé-bute en 1986. À l'é
+poque,
  []
 
 [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
-Overfull \hbox (5.6183pt too wide) in paragraph at lines 336--337
-\T1/ptm/m/n/12 re-pré-sen-ta-tions na-tio-nales et in-ter-na-tio-nales. Sa se-c
-onde mis-
- []
-
-
-Overfull \hbox (2.53575pt too wide) in paragraph at lines 338--339
-\T1/ptm/m/n/12 au-jour-d'hui un bel éta-blis-se-ment hon-grois. Le 12 mars 2016
-,
- []
-
-
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [61])
@@ -908,8 +762,8 @@ Chapitre VII.
 
 
 ]
-Overfull \hbox (12.72426pt too wide) in paragraph at lines 26--26
- [][] [][]\T1/ptm/b/n/12 Mes nu-mé-ros pré-fé-rés de Monté Carlo 
+Overfull \hbox (9.07207pt too wide) in paragraph at lines 26--26
+ [][] [][]\T1/ptm/b/n/12 (-20) Mes nu-mé-ros pré-fé-rés de Monté Carlo 
  []
 
 )
@@ -920,45 +774,74 @@ Overfull \hbox (12.72426pt too wide) in paragraph at lines 26--26
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
-4.
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+[]\T1/ptm/m/n/12 (+20) GCProductions.  Fló-rián Rich-ter |
+ []
 
+
+Underfull \hbox (badness 2573) in paragraph at lines 63--66
+\T1/ptm/m/n/12 (+20) https ://www.gcproductions.fr/numero/2019/florian-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+[]\T1/ptm/m/n/12 (+20) GCProductions.  Ke-vin Rich-ter |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+\T1/ptm/m/n/12 (+20) https ://www.gcproductions.fr/numero/2019/kevin-
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 89--92
+[]\T1/ptm/m/n/12 (+20) Circusfans Ita-lia.  CIRCO DI NA-TALE DI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+\T1/ptm/m/n/12 (+20) STUTT-GART : Il Pro-gramma 2021/2022|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+\T1/ptm/m/n/12 (+20) https ://www.circusfans.eu/2021/10/15/circo-di-
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
+5.
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 2042) in paragraph at lines 107--109
-[]\T1/ptm/m/n/12 Programme.  Cirque Ar-lette Grüss | Pous-sières
+[74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+[]\T1/ptm/m/n/12 (+20) Flórián Rich-ter.  Rich-ter Fló-rián |
  []
 
-[74]
-Underfull \hbox (badness 4467) in paragraph at lines 164--168
-[]\T1/ptm/m/n/12 Jean-Marc Tous-saint.  L'em-preinte du gé-né-ral
- []
-
-[75]) 
+[76]) 
 AED: lastpage setting LastPage
-[76] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
+[77] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 059DBAAEF528DCDB04539736C69618FE;7866.
  ) 
 Here is how much of TeX's memory you used:
- 12485 strings out of 475385
- 207284 string characters out of 2776907
- 567082 words of memory out of 3000000
- 33490 multiletter control sequences out of 15000+600000
- 507478 words of font info for 65 fonts, out of 8000000 for 9000
+ 15073 strings out of 475385
+ 249957 string characters out of 2776907
+ 640424 words of memory out of 3000000
+ 35741 multiletter control sequences out of 15000+600000
+ 522377 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,2588b,698s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,2588b,756s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (76 pages, 228036 bytes).
+Output written on main.pdf (77 pages, 243751 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 142 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 580 PDF objects out of 1000 (max. 8388607)
+ 156 named destinations out of 1000 (max. 500000)
+ 54497 words of extra memory for PDF output out of 61914 (max. 10000000)
 
