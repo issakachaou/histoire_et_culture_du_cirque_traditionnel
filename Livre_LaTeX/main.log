@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  26 JUN 2024 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  4 JUL 2024 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -758,8 +758,8 @@ Chapitre VII.
 
 
 ]
-Overfull \hbox (10.70807pt too wide) in paragraph at lines 26--26
- [][] [][]\T1/ptm/b/n/12 (-20) Mes nu-mé-ros pré-fé-rés de Monte-Carlo 
+Overfull \hbox (4.82822pt too wide) in paragraph at lines 26--26
+ [][] [][]\T1/ptm/b/n/12 (-20) Mes nu-mé-ros pré-fé-rés à Monte-Carlo 
  []
 
 )
@@ -820,7 +820,7 @@ AED: lastpage setting LastPage
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6BD9AFC05E79202A59F98A6C90F70B1C;8090.
+(rerunfilecheck)             Checksum: 74D87E9E404F5016F90CEE012A5E086D;8116.
  ) 
 Here is how much of TeX's memory you used:
  15116 strings out of 475385
@@ -835,7 +835,7 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (78 pages, 247928 bytes).
+Output written on main.pdf (78 pages, 247964 bytes).
 PDF statistics:
  601 PDF objects out of 1000 (max. 8388607)
  168 named destinations out of 1000 (max. 500000)
