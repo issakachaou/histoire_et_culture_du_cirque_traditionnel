@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  4 JUL 2024 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  6 JUL 2024 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,40 +721,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (Chapitre_05.tex
 Chapitre V.
-) [63
+[63
 
 
 
 
 ]
+Underfull \vbox (badness 3679) has occurred while \output is active []
+
+ [64])
+[65]
 \openout2 = `Chapitre_06.aux'.
 
- (Chapitre_06.tex [64
+ (Chapitre_06.tex [66
 
 
 
 
 ]
 Chapitre VI.
-) [65]
+) [67]
 \openout2 = `Chapitre_07.aux'.
 
- (Chapitre_07.tex [66
+ (Chapitre_07.tex [68
 
 
 
 
 ]
 Chapitre VII.
-) [67]
+) [69]
 \openout2 = `Remerciement.aux'.
 
- (Remerciement.tex [68
+ (Remerciement.tex [70
 
 
 
 
-]) [69] (main.toc [70
+]) [71] (main.toc [72
 
 
 ]
@@ -766,7 +770,7 @@ Overfull \hbox (4.82822pt too wide) in paragraph at lines 26--26
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [71] [72] (main.bbl [73
+ [73] [74] (main.bbl [75
 
 
 ]
@@ -789,7 +793,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--105
 \T1/ptm/m/n/12 (+20) https ://www.gcproductions.fr/numero/2019/kevin-
  []
 
-[74]
+[76]
 Underfull \hbox (badness 6364) in paragraph at lines 123--126
 []\T1/ptm/m/n/12 (+20) Circusfans Ita-lia.  CIRCO DI NA-TALE DI
  []
@@ -809,35 +813,35 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 219--222
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 224--227
 []\T1/ptm/m/n/12 (+20) Flórián Rich-ter.  Rich-ter Fló-rián |
  []
 
-[76] [77]) 
+[78] [79]) 
 AED: lastpage setting LastPage
-[78] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
+[80] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 74D87E9E404F5016F90CEE012A5E086D;8116.
  ) 
 Here is how much of TeX's memory you used:
- 15116 strings out of 475385
- 250812 string characters out of 2776907
- 640587 words of memory out of 3000000
- 35772 multiletter control sequences out of 15000+600000
+ 15122 strings out of 475385
+ 250923 string characters out of 2776907
+ 640603 words of memory out of 3000000
+ 35775 multiletter control sequences out of 15000+600000
  522377 words of font info for 251 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,2588b,812s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,2588b,810s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (78 pages, 247964 bytes).
+Output written on main.pdf (80 pages, 252664 bytes).
 PDF statistics:
- 601 PDF objects out of 1000 (max. 8388607)
- 168 named destinations out of 1000 (max. 500000)
+ 612 PDF objects out of 1000 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
  54505 words of extra memory for PDF output out of 61914 (max. 10000000)
 
