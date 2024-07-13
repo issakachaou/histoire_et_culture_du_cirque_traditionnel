@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  6 JUL 2024 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  13 JUL 2024 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,7 +624,7 @@ Underfull \vbox (badness 1087) has occurred while \output is active []
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [24]
 [25]
@@ -636,7 +636,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
 [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [31]
 Underfull \vbox (badness 1087) has occurred while \output is active []
@@ -650,17 +650,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [34]
 [35] [36] [37] [38]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 176.
+(Font)              <12> on input line 178.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 176.
+(Font)              <8> on input line 178.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 176.
+(Font)              <6> on input line 178.
  [39]
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [40]
 [41] [42]
-Overfull \hbox (12.36736pt too wide) in paragraph at lines 215--215
+Overfull \hbox (12.36736pt too wide) in paragraph at lines 217--217
 |\T1/ptm/b/it/17.28 (-20) Michel Pal-mer, Mon-sieur Loyal des grands
  []
 
@@ -704,7 +704,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [58]
-Overfull \hbox (2.22844pt too wide) in paragraph at lines 328--329
+Overfull \hbox (2.22844pt too wide) in paragraph at lines 330--331
 []\T1/ptm/m/n/12 (-20) La car-rière de Fló-rián Rich-ter dé-buta en 1986. À l'é
 poque,
  []
@@ -827,11 +827,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 74D87E9E404F5016F90CEE012A5E086D;8116.
  ) 
 Here is how much of TeX's memory you used:
- 15122 strings out of 475385
- 250923 string characters out of 2776907
+ 15128 strings out of 475385
+ 250980 string characters out of 2776907
  640603 words of memory out of 3000000
  35775 multiletter control sequences out of 15000+600000
- 522377 words of font info for 251 fonts, out of 8000000 for 9000
+ 522827 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,2588b,810s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -839,7 +839,7 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (80 pages, 252664 bytes).
+Output written on main.pdf (80 pages, 252998 bytes).
 PDF statistics:
  612 PDF objects out of 1000 (max. 8388607)
  171 named destinations out of 1000 (max. 500000)
