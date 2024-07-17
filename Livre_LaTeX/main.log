@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  16 JUL 2024 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  17 JUL 2024 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -760,18 +760,18 @@ Chapitre V.
 [73]
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
- [74])
-[75]
+ [74]
+[75]) [76]
 \openout2 = `Chapitre_06.aux'.
 
- (Chapitre_06.tex [76
+ (Chapitre_06.tex
+Chapitre VI.
+) [77
 
 
 
 
 ]
-Chapitre VI.
-) [77]
 \openout2 = `Chapitre_07.aux'.
 
  (Chapitre_07.tex [78
@@ -855,14 +855,14 @@ AED: lastpage setting LastPage
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E223B847FFCA98F65138BD42DA27A641;8454.
+(rerunfilecheck)             Checksum: 69DC17C0D781723E68FE5BC783D3734B;8681.
  ) 
 Here is how much of TeX's memory you used:
- 15140 strings out of 475385
- 251074 string characters out of 2776907
+ 15145 strings out of 475385
+ 251128 string characters out of 2776907
  640603 words of memory out of 3000000
- 35776 multiletter control sequences out of 15000+600000
- 522794 words of font info for 255 fonts, out of 8000000 for 9000
+ 35777 multiletter control sequences out of 15000+600000
+ 523019 words of font info for 257 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,2588b,810s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -870,9 +870,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (90 pages, 276386 bytes).
+Output written on main.pdf (90 pages, 280750 bytes).
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 54513 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 666 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 54521 words of extra memory for PDF output out of 61914 (max. 10000000)
 
