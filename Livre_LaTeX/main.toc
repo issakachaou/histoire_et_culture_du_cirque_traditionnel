@@ -25,9 +25,10 @@
 \contentsline {section}{Flórián Richter, la culture équestre du cirque magyar}{59}{section*.20}%
 \contentsline {section}{Alfred Court, l’homme derrière la belle et la bête}{63}{section*.21}%
 \contentsline {section}{Nico le clown, et les Aventures de Nico le clown}{71}{section*.22}%
+\contentsline {section}{Arthur Moalic, rêve d’enfant et rêve de clown}{76}{section*.23}%
 \contentsline {chapter}{\numberline {V}Mes numéros préférés à Monte-Carlo et dans d’autres festivals}{77}{chapter.5}%
-\contentsline {section}{Les tigres du Cirque Moira Orfei}{77}{section*.23}%
-\contentsline {section}{La famille de Leonida Casartelli}{79}{section*.24}%
+\contentsline {section}{Les tigres du Cirque Moira Orfei}{77}{section*.24}%
+\contentsline {section}{La famille de Leonida Casartelli}{79}{section*.25}%
 \contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{83}{chapter.6}%
 \contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{85}{chapter.7}%
-\contentsline {chapter}{Remerciements}{87}{chapter*.25}%
+\contentsline {chapter}{Remerciements}{87}{chapter*.26}%

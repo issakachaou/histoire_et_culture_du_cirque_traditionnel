@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  26 JUL 2024 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  28 JUL 2024 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -819,7 +819,7 @@ Chapitre VII.
 
 
 ]
-Overfull \hbox (4.82822pt too wide) in paragraph at lines 28--28
+Overfull \hbox (4.82822pt too wide) in paragraph at lines 29--29
  [][] [][]\T1/ptm/b/n/12 (-20) Mes nu-mé-ros pré-fé-rés à Monte-Carlo 
  []
 
@@ -881,14 +881,14 @@ AED: lastpage setting LastPage
 (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BA2049FE821B47A21AF2B037A9932D15;9003.
+(rerunfilecheck)             Checksum: A9D158449ED265D89CF1856DB233BE27;9313.
  ) 
 Here is how much of TeX's memory you used:
- 15180 strings out of 475385
- 251662 string characters out of 2776907
+ 15191 strings out of 475385
+ 251770 string characters out of 2776907
  640699 words of memory out of 3000000
- 35796 multiletter control sequences out of 15000+600000
- 523244 words of font info for 259 fonts, out of 8000000 for 9000
+ 35797 multiletter control sequences out of 15000+600000
+ 523919 words of font info for 265 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,2588b,804s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -896,9 +896,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (96 pages, 297336 bytes).
+Output written on main.pdf (96 pages, 298697 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 196 named destinations out of 1000 (max. 500000)
- 54529 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 709 PDF objects out of 1000 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
+ 54537 words of extra memory for PDF output out of 61914 (max. 10000000)
 
