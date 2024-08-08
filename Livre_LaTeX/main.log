@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  28 JUL 2024 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.31)  8 AUG 2024 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,7 +656,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 180.
  [39]
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [40]
 [41] [42]
@@ -679,17 +679,14 @@ Underfull \vbox (badness 3679) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [50]
-[51]
+[51] [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-Underfull \vbox (badness 2529) has occurred while \output is active []
 
  [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -713,26 +710,26 @@ poque,
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[62]
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
- [62]
-[63]
+ [63]
 Overfull \hbox (4.64447pt too wide) in paragraph at lines 366--367
 \T1/ptm/m/n/12 (-20) Mar-seille ac-corda aux frères Court l'au-to-ri-sa-tion de
  construire
  []
 
 
-Underfull \vbox (badness 1552) has occurred while \output is active []
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
  [64]
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [65]
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -748,7 +745,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [70]
 [71]
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -757,27 +754,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+[76]
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [77]
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
- [75])
-[76]
+ [78])
+[79]
 \openout2 = `Chapitre_05.aux'.
 
- (Chapitre_05.tex
-Chapitre V.
-[77
+ (Chapitre_05.tex [80
 
 
 
 
 ]
+Chapitre V.
+[81]
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
- [78]
-[79]
+ [82]
+[83]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80]
+ [84]
 Overfull \hbox (0.411pt too wide) in paragraph at lines 33--34
 \T1/ptm/m/n/12 (-20) d'ailleurs, c'est la pré-sen-ta-tion d'une réelle pan-to-m
 ime d'une
@@ -786,36 +790,36 @@ ime d'une
 
 Underfull \vbox (badness 3679) has occurred while \output is active []
 
- [81])
-[82]
+ [85]
+[86]) [87]
 \openout2 = `Chapitre_06.aux'.
 
- (Chapitre_06.tex
-Chapitre VI.
-) [83
+ (Chapitre_06.tex [88
 
 
 
 
 ]
+Chapitre VI.
+) [89]
 \openout2 = `Chapitre_07.aux'.
 
- (Chapitre_07.tex [84
+ (Chapitre_07.tex [90
 
 
 
 
 ]
 Chapitre VII.
-) [85]
+) [91]
 \openout2 = `Remerciement.aux'.
 
- (Remerciement.tex [86
+ (Remerciement.tex [92
 
 
 
 
-]) [87] (main.toc [88
+]) [93] (main.toc [94
 
 
 ]
@@ -827,78 +831,78 @@ Overfull \hbox (4.82822pt too wide) in paragraph at lines 29--29
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [89] [90] (main.bbl [91
+ [95] [96] (main.bbl [97
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+] [98]
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
 []\T1/ptm/m/n/12 (+20) GCProductions.  Fló-rián Rich-ter |
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 114--117
+Underfull \hbox (badness 2573) in paragraph at lines 159--162
 \T1/ptm/m/n/12 (+20) https ://www.gcproductions.fr/numero/2019/florian-
  []
 
-[92]
-Underfull \hbox (badness 10000) in paragraph at lines 119--122
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 []\T1/ptm/m/n/12 (+20) GCProductions.  Ke-vin Rich-ter |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--122
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 \T1/ptm/m/n/12 (+20) https ://www.gcproductions.fr/numero/2019/kevin-
  []
 
-
-Underfull \hbox (badness 6364) in paragraph at lines 140--143
+[99]
+Underfull \hbox (badness 6364) in paragraph at lines 185--188
 []\T1/ptm/m/n/12 (+20) Circusfans Ita-lia.  CIRCO DI NA-TALE DI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 \T1/ptm/m/n/12 (+20) STUTT-GART : Il Pro-gramma 2021/2022|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 \T1/ptm/m/n/12 (+20) https ://www.circusfans.eu/2021/10/15/circo-di-
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-46.
+91.
 (C:\Users\issak\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-[93] [94]
-Underfull \hbox (badness 10000) in paragraph at lines 251--254
+[100] [101]
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
 []\T1/ptm/m/n/12 (+20) Flórián Rich-ter.  Rich-ter Fló-rián |
  []
 
-[95]) 
+[102]) 
 AED: lastpage setting LastPage
-[96] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux)
-(Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
+[103] (main.aux (TeX_files/Introduction.aux) (Chapitre_01.aux) (Chapitre_02.aux
+) (Chapitre_03.aux) (TeX_files/Chapitre_04.aux) (Chapitre_05.aux)
 (Chapitre_06.aux) (Chapitre_07.aux) (Remerciement.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A9D158449ED265D89CF1856DB233BE27;9313.
+(rerunfilecheck)             Checksum: 4E15206875F2CF6FDBFC16720967EB1F;9431.
  ) 
 Here is how much of TeX's memory you used:
- 15191 strings out of 475385
- 251770 string characters out of 2776907
- 640699 words of memory out of 3000000
- 35797 multiletter control sequences out of 15000+600000
+ 15256 strings out of 475385
+ 252681 string characters out of 2776907
+ 640929 words of memory out of 3000000
+ 35840 multiletter control sequences out of 15000+600000
  523919 words of font info for 265 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,2588b,804s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,2588b,864s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (96 pages, 298697 bytes).
+Output written on main.pdf (103 pages, 314253 bytes).
 PDF statistics:
- 709 PDF objects out of 1000 (max. 8388607)
- 197 named destinations out of 1000 (max. 500000)
- 54537 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 219 named destinations out of 1000 (max. 500000)
+ 54545 words of extra memory for PDF output out of 61914 (max. 10000000)
 
