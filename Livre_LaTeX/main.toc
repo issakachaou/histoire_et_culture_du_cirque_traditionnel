@@ -30,6 +30,7 @@
 \contentsline {section}{Les tigres du Cirque Moira Orfei}{81}{section*.24}%
 \contentsline {section}{La famille de Leonida Casartelli}{83}{section*.25}%
 \contentsline {section}{Steeve Eleky}{86}{section*.26}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{89}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{91}{chapter.7}%
-\contentsline {chapter}{Remerciements}{93}{chapter*.27}%
+\contentsline {section}{La famille Knie}{87}{section*.27}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{91}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{93}{chapter.7}%
+\contentsline {chapter}{Remerciements}{95}{chapter*.28}%
