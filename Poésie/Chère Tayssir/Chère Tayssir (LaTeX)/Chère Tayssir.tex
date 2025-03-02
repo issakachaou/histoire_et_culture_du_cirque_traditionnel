@@ -1,0 +1,105 @@
+\documentclass[12pt]{book} %report si j'ai un problème%
+\setlength\paperheight{215.9mm} %215.9mm
+\setlength\paperwidth{139.7mm} %139.7mm
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{left=2cm,right=2cm,top=2cm,bottom=2cm}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{times}
+\usepackage{lastpage}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{hyphenat} % pour gérer les césures
+\usepackage{microtype} % Pour une meilleure justification
+\usepackage{verse} % Pour formater les poèmes
+
+\renewcommand\thechapter{\Roman{chapter}}
+% Commande personnalisée pour une section non numérotée avec lien hypertexte
+
+\renewcommand{\cftchapfont}{\bfseries}
+\renewcommand{\cftchappagefont}{\bfseries}
+\renewcommand{\cftchappresnum}{\chaptername~} % affichera Chapitre dans la TOC
+\renewcommand{\cftchapaftersnum}{~}
+\renewcommand{\cftchapnumwidth}{6em}
+
+% Configuration pour les titres de section
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{\thesection}{1em}{\hyphenchar\font=-1\relax}
+\titlespacing*{\section}{0pt}{*3}{*2}
+
+\begin{document}
+	
+\pagestyle{plain} 
+\author{{\Large Issa}}
+\title{{\Huge Chère Tayssir}}
+\date{}
+
+%\frontmatter
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+
+\begin{center}
+	\vspace*{5cm}
+	\textit{\textbf{{\LARGE Chère Tayssir}}}
+	
+\end{center}
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+\maketitle
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+\vfill
+\begin{flushright}
+	\textit{A Tayssir,}
+\end{flushright}
+\vfill
+\newpage
+\mbox{}
+\thispagestyle{empty}	
+	
+\newpage
+\mbox{}
+\thispagestyle{empty}
+
+	
+\setcounter{page}{9} 	
+	
+\thispagestyle{empty}
+\vspace*{5cm}
+\begin{center}
+	{\LARGE De l'amour}
+\end{center}
+\phantomsection
+\addcontentsline{toc}{chapter}{Chapitre I. De l'amour}
+\newpage
+\mbox{}
+\thispagestyle{empty}	
+	
+\include{De l'amour.tex}
+
+\newpage
+\tableofcontents
+	
+\end{document}

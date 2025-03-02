@@ -1,0 +1,4 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Chapitre I. De l'amour}{9}{section*.1}%
+\contentsline {section}{Lettre I}{11}{section*.2}%
+\contentsline {section}{Lettre II}{12}{section*.3}%
