@@ -6,31 +6,31 @@
 \contentsline {chapter}{\numberline {IV}Les visages du cirque traditionnel}{19}{chapter.4}%
 \contentsline {section}{Even Landri, le gladiateur des temps modernes}{19}{section*.2}%
 \contentsline {section}{Pierre Marchand, le virtuose du diabolo}{22}{section*.3}%
-\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{25}{section*.4}%
-\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{27}{section*.5}%
-\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{28}{section*.6}%
-\contentsline {section}{Sacha Krosemann Junior, la nouvelle génération entre en cage}{30}{section*.7}%
-\contentsline {section}{Théo Leroy, un rêve devenu réalité}{32}{section*.8}%
-\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{34}{section*.9}%
-\contentsline {section}{Maeven Prein, un artiste complet}{35}{section*.10}%
-\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{35}{section*.11}%
-\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{37}{section*.12}%
-\contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{39}{section*.13}%
-\contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{41}{section*.14}%
-\contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{43}{section*.15}%
-\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{45}{section*.16}%
-\contentsline {section}{Joseph Bouglione, d’écuyers hors pair à directeur artistique}{47}{section*.17}%
-\contentsline {section}{Alfred Beautour, l’homme aux léopards}{51}{section*.18}%
-\contentsline {section}{Dani Lary, et le piano volant}{52}{section*.19}%
-\contentsline {section}{Flórián Richter, la culture équestre du cirque magyar}{59}{section*.20}%
-\contentsline {section}{Alfred Court, l’homme derrière la belle et la bête}{62}{section*.21}%
-\contentsline {section}{Nico le clown, et les Aventures de Nico le clown}{71}{section*.22}%
-\contentsline {section}{Arthur Moalic, rêve d’enfant et rêve de clown}{76}{section*.23}%
-\contentsline {chapter}{\numberline {V}Mes numéros préférés à Monte-Carlo et dans d’autres festivals}{81}{chapter.5}%
-\contentsline {section}{Les tigres du Cirque Moira Orfei}{81}{section*.24}%
-\contentsline {section}{La famille de Leonida Casartelli}{83}{section*.25}%
-\contentsline {section}{Steeve Eleky}{86}{section*.26}%
-\contentsline {section}{La famille Knie}{87}{section*.27}%
-\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{91}{chapter.6}%
-\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{93}{chapter.7}%
-\contentsline {chapter}{Remerciements}{95}{chapter*.28}%
+\contentsline {section}{Martin Lacey Junior, l'homme au clown d'or}{26}{section*.4}%
+\contentsline {section}{Banbino Mouredon, et le baiser de la mort}{28}{section*.5}%
+\contentsline {section}{Tom Dieck Junior, l'homme qui parlait à l'oreille des ligrons}{29}{section*.6}%
+\contentsline {section}{Sacha Krosemann Junior, la nouvelle génération entre en cage}{32}{section*.7}%
+\contentsline {section}{Théo Leroy, un rêve devenu réalité}{33}{section*.8}%
+\contentsline {section}{Arthur et Carmen Möller, un couple de dresseur}{36}{section*.9}%
+\contentsline {section}{Maeven Prein, un artiste complet}{37}{section*.10}%
+\contentsline {section}{Frédéric Edelstein, l’homme aux douze lions blancs}{38}{section*.11}%
+\contentsline {section}{Roman \& Laurent, un jeune ventriloque prometteur}{40}{section*.12}%
+\contentsline {section}{Natalya Jigalova, l’étoile du trapèze ballant}{42}{section*.13}%
+\contentsline {section}{Henri Dantès, le dompteur du plus grand cirque du monde}{44}{section*.14}%
+\contentsline {section}{Michel Palmer, Monsieur Loyal des grands cirques}{46}{section*.15}%
+\contentsline {section}{Roger Falck, la fierté française à Monte-Carlo}{49}{section*.16}%
+\contentsline {section}{Joseph Bouglione, d’écuyers hors pair à directeur artistique}{50}{section*.17}%
+\contentsline {section}{Alfred Beautour, l’homme aux léopards}{55}{section*.18}%
+\contentsline {section}{Dani Lary, et le piano volant}{57}{section*.19}%
+\contentsline {section}{Flórián Richter, la culture équestre du cirque magyar}{64}{section*.20}%
+\contentsline {section}{Alfred Court, l’homme derrière la belle et la bête}{68}{section*.21}%
+\contentsline {section}{Nico le clown, et les Aventures de Nico le clown}{78}{section*.22}%
+\contentsline {section}{Arthur Moalic, rêve d’enfant et rêve de clown}{83}{section*.23}%
+\contentsline {chapter}{\numberline {V}Mes numéros préférés à Monte-Carlo et dans d’autres festivals}{87}{chapter.5}%
+\contentsline {section}{Les tigres du Cirque Moira Orfei}{87}{section*.24}%
+\contentsline {section}{La famille de Leonida Casartelli}{89}{section*.25}%
+\contentsline {section}{Steeve Eleky}{93}{section*.26}%
+\contentsline {section}{La famille Knie}{94}{section*.27}%
+\contentsline {chapter}{\numberline {VI}Les plus beaux spectacles que j’ai pu voir à l’heure actuelle}{97}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}Culture du cirque traditionnel}{99}{chapter.7}%
+\contentsline {chapter}{Remerciements}{101}{chapter*.28}%

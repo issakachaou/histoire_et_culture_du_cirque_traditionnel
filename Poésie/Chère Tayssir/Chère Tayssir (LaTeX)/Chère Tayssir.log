@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.10.12)  3 MAR 2025 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.10.12)  4 MAR 2025 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,12 +449,12 @@ LaTeX Info: Redefining \up on input line 34.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(56.9055pt, 283.67398pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 500.48396pt, 56.9055pt)
-* \paperwidth=397.48499pt
-* \paperheight=614.29497pt
-* \textwidth=283.67398pt
-* \textheight=500.48396pt
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=483.69687pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
 * \topmargin=-47.23828pt
@@ -591,11 +591,11 @@ Package rerunfilecheck Info: File `"Chère Tayssir".out' has not changed.
 (rerunfilecheck)             Checksum: FA630F3660F61392DD8ACB407369BED4;362.
  ) 
 Here is how much of TeX's memory you used:
- 14090 strings out of 475385
- 231223 string characters out of 2776906
+ 14079 strings out of 475385
+ 231104 string characters out of 2776906
  624818 words of memory out of 3000000
- 35154 multiletter control sequences out of 15000+600000
- 507835 words of font info for 107 fonts, out of 8000000 for 9000
+ 35152 multiletter control sequences out of 15000+600000
+ 504853 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,1015b,475s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/issak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
@@ -603,9 +603,9 @@ Here is how much of TeX's memory you used:
 /Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C
 :/Users/issak/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Chère Tayssir.pdf" (13 pages, 57937 bytes).
+Output written on "Chère Tayssir.pdf" (13 pages, 58009 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
- 48153 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 44057 words of extra memory for PDF output out of 51595 (max. 10000000)
 
